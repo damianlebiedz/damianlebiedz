@@ -9,5 +9,5 @@
   </a>
 </h3>
 <h4 align="center">
-    <img alt="top-langs" width="45%" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianlebiedz&layout=compact" />
+    <img alt="top-langs" width="45%" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianlebiedz&theme=dark&layout=compact" />
 </h4>
