@@ -1,7 +1,3 @@
-<h1 align="center">
-  <a>
-  DL Portfolio
-  </a>
 </h1>
 <h3 align="justify">
   <a>
