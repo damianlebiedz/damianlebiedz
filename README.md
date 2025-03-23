@@ -3,7 +3,7 @@
 Check out my website:
 https://damianlebiedz.github.io
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianlebiedz&hide_progress=true&size_weight=0.5&count_weight=0.5&hide=HTML,CSS,CMake,SCSS,Ruby,Shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damianlebiedz&hide_progress=true&theme=dark&size_weight=0.5&count_weight=0.5&hide=HTML,CSS,CMake,SCSS,Ruby,Shell)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **damianlebiedz/damianlebiedz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
