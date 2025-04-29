@@ -5,7 +5,7 @@ https://damianlebiedz.github.io
 
 ### My Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,java,cpp,r,postgres,docker,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,postgres,docker,cpp,r,java,html,css)](https://skillicons.dev)
 
 <!--
 **damianlebiedz/damianlebiedz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
