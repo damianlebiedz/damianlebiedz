@@ -1,23 +1,15 @@
 ## Hi there 👋
 
-Check out my website:
+My website:
 https://damianlebiedz.github.io
 
-### My Tech Stack:
+### My Tech Stack
 
-[![MySkills](https://skillicons.dev/icons?i=py,fastapi,go,cpp,rabbitmq,postgres,graphql,docker,git,linux)](https://skillicons.dev)
+Languages:
+[![MySkills](https://skillicons.dev/icons?i=py,go,cpp)](https://skillicons.dev)
 
-<!--
-**damianlebiedz/damianlebiedz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologies:
+[![MySkills](https://skillicons.dev/icons?i=fastapi,rabbitmq,postgres,graphql)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other:
+[![MySkills](https://skillicons.dev/icons?i=docker,git,linux)](https://skillicons.dev)
