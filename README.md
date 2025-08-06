@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-My website:
-https://damianlebiedz.github.io
-
 ### My Tech Stack
 
 Languages:
