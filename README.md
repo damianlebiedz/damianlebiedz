@@ -16,7 +16,7 @@ Technologies:
 
 [![MySkills](https://skillicons.dev/icons?i=fastapi,rabbitmq,postgres,graphql)](https://skillicons.dev)
 
-Other:
+Others:
 
 
 [![MySkills](https://skillicons.dev/icons?i=docker,git,linux)](https://skillicons.dev)
