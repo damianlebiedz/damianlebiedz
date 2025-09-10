@@ -1,19 +1,5 @@
 ## Hi there 👋
 
-### My Tech Stack
+### My Tech Stack:
 
-Languages:
-
-
-[![MySkills](https://skillicons.dev/icons?i=py,go,cpp)](https://skillicons.dev)
-
-
-Technologies:
-
-
-[![MySkills](https://skillicons.dev/icons?i=fastapi,rabbitmq,postgres,graphql)](https://skillicons.dev)
-
-Others:
-
-
-[![MySkills](https://skillicons.dev/icons?i=docker,git,linux)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=py,go,cpp,html,css,fastapi,rabbitmq,postgres,graphql,docker,jenkins,git,linux)](https://skillicons.dev)
